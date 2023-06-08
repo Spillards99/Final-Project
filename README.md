@@ -12,5 +12,12 @@ https://en.wikipedia.org/wiki/Specialty_(medicine)
 3. Determine the probability of participants matching based on language fluency and
 specialization. Program must display the matched probability.
 4. Provide documentation that explains solution and programming approaches.
-Author: Stephanie Spillards
+Author: Stephanie Spillards & Source code
 Published: 6/7/23
+Code Inspiration:
+Authors Name Unknown 
+- 6/7/23
+- CK DoctorsBorder
+- C++
+- source code
+-(https://replit.com/@ProfKaseyNguyen#main.cpp)
